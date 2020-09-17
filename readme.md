@@ -1,16 +1,6 @@
 # Desafio Back-end PicPay
 
-Primeiramente, obrigado pelo seu interesse em trabalhar na melhor plataforma de pagamentos do mundo!
-Abaixo você encontrará todos as informações necessárias para iniciar o seu teste.
-
-## Avisos antes de começar
-
-- Faça um fork desse repositório para seu usuário
-- Crie uma branch a partir da `master` nesse padrão de nomenclatura: dd-mm-yy/nome-sobrenome (por exemplo, 30-04-20/meu-nome)
-- Abra o Pull Request até 1 dia antes da entrevista
-- Você poderá consultar o Google, Stackoverflow ou algum projeto particular na sua máquina.
-- Fique à vontade para perguntar qualquer dúvida aos recrutadores.
-- Fique tranquilo, respire, assim como você, também já passamos por essa etapa. Boa sorte! :)
+Desafio para processo seletivo em vaga de desenvolvimento Back-end.
 
 ## Setup do projeto
 
@@ -59,33 +49,6 @@ Atente-se a cumprir a maioria dos requisitos, pois você pode cumprir-los parcia
 Teremos 2 partes da avaliação:
 A correção objetiva será realizada através da utilização de um script de correção automatizada.
 A correção qualitativa será durante a entrevista e levará em conta os seguintes critérios:
-
-## O que será avaliado e valorizamos
-- Código limpo e organizado
-- Ser consistente em suas escolhas
-- Apresentar soluções que domina
-- Modelagem de Dados
-- Manutenibilidade do Código
-- Tratamento de erros
-- Cuidado com itens de segurança
-- Arquitetura (estruturar o pensamento antes de escrever)
-- Esboço da arquitetura usando o diagrama da sua escolha
-
-## O que NÃO será avaliado
-- Fluxo de cadastro de usuários e lojistas
-- Autenticação
-
-## O que será um diferencial
-- Uso de Docker
-- Testes de [integração](https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing)
-- Testes [unitários](https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing)
-- Uso de Design Patters
-- Documentação
-- Proposta de melhoria na arquitetura
-
-
-## Para o dia da avaliação
-Na data marcada pelo recrutador tenha sua aplicação rodando na sua máquina local **ou** em algum serviço ne web (Ex: [Heroku](https://www.heroku.com/)).
 
 
 ## Materiais úteis
